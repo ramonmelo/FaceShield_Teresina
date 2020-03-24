@@ -8,6 +8,10 @@ na luta contra o Corona Vírus.
 Lembrando sempre que você deve consultar o Site do [Ministério da Saúde](https://saude.gov.br/)
 para mais informações sobre a propagação do vírus.
 
+# Documentos
+
+- [Link para Documento](./docs/FaceShield.pdf)
+
 # STLS
 
 Os modelos que forem testados e aprovados, estão sendo colocados na pasta STLS.
