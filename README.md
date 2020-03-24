@@ -15,3 +15,7 @@ Lembro a você que o modelo é Creative Commons Non Commercial, ou seja
 você não pode imprimir este modelo e vender.
 Pois neste momento não precisamos de ser
 gananciosos e sim ser autruísta.
+
+# Impressoras
+
+Link para a Planilha com as pessoas que estão imprimindo as peças em Teresina: https://docs.google.com/spreadsheets/d/1Gecb9dxm3rR6JZFIKTWa6IRQ_Q5pBoQLrpPuLz-x3no/edit?usp=sharing
