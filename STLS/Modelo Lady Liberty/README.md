@@ -1,1 +1,0 @@
-**Medical Face Shield replacement frame V2 by LadyLibertyHK on Thingiverse: https://www.thingiverse.com/thing:4159366
