@@ -19,3 +19,10 @@ gananciosos e sim ser autruísta.
 # Impressoras
 
 Link para a Planilha com as pessoas que estão imprimindo as peças em Teresina: https://docs.google.com/spreadsheets/d/1Gecb9dxm3rR6JZFIKTWa6IRQ_Q5pBoQLrpPuLz-x3no/edit?usp=sharing
+
+# Configuração Recomendada de Impressão
+
+1. 30% de preenchimento (infill)
+2. Paredes com 3 camadas (geralmete 1.2mm)
+3. Altura da camada de impressão 0.3mm
+4. Velocidade de impressão, +- 60mm/s
